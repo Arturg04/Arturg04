@@ -51,27 +51,21 @@
 <h2 align="left">I code with</h2>
 
 ###
-<div style="clear: both;">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo" style="float: left; margin-right: 12px;" />
-	<image width="100"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="float: right; margin-right: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" style="float: right; margin-right: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" style="float: right; margin-right: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="float: right;" />
-</div>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo" />
+<image width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="c logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="cplusplus logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="csharp logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python logo"/>
 
-<div style="clear: both;">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo" style="float: left; margin-right: 12px;" />
-	<image width="100"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo" style="float: right; margin-right: 12px;" />
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" style="float: right;" />
-</div>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo" />
+<image width="200"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="40" alt="xamarin logo" />
+<img src="https://skillicons.dev/icons?i=dotnet" width="40" alt="dot-net logo"/>
 
-<div style="clear: both;">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo" style="float: left; margin-right: 12px;" />
-	<image width="100"/>
-	<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="dot-net logo" style="float: right;" />
-</div>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"/>
+<image width="300"/>
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" alt="dot-net logo" />
 
 &nbsp;
 &nbsp;
