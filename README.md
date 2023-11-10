@@ -55,7 +55,6 @@
 
 <p>
 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"/>
-	<image width="200"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"/>
 	<img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
 </p>
