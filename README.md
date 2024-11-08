@@ -59,5 +59,4 @@ Currently, I’m expanding my skills in game development, machine learning, and 
 
 ## 🌐 Follow Me
 - **[GitHub](https://github.com/Arturg04)**: Explore my code, contributions, and open-source projects.
-- **[Twitter](https://twitter.com/arturg04)**: Follow me for industry insights, tech thoughts, and quick updates.
 - **[Instagram](https://www.instagram.com/arturg04/)**: A glimpse into my life, interests, and creative side.
