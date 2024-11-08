@@ -1,88 +1,60 @@
+# Artur Gonçalves
+![Artur's Avatar](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif)
 
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" alt="Artur Gonçalves">
+## Welcome:
+
+<div id="welcome-code"></div>
+
+<script>
+  const codes = [
+    { language: 'C', code: '#include <stdio.h>\nint main() {\n  printf("Welcome to my GitHub profile!\\n");\n  return 0;\n}' },
+    { language: 'C++', code: '#include <iostream>\nint main() {\n  std::cout << "Welcome to my GitHub profile!" << std::endl;\n  return 0;\n}' },
+    { language: 'Python', code: 'print("Welcome to my GitHub profile!")' },
+    { language: 'C#', code: 'using System;\nclass Program {\n  static void Main() {\n    Console.WriteLine("Welcome to my GitHub profile!");\n  }\n}' },
+    { language: 'JavaScript', code: 'console.log("Welcome to my GitHub profile!");' }
+  ];
+
+  // Function to generate random index and display the code
+  function displayRandomCode() {
+    const randomCode = codes[Math.floor(Math.random() * codes.length)];
+    document.getElementById('welcome-code').innerHTML = `
+      <pre><code class="language-${randomCode.language.toLowerCase()}">${randomCode.code}</code></pre>
+    `;
+  }
+
+  // Call the function to display code when the page loads
+  window.onload = displayRandomCode;
+</script>
+
+## About Me
+I'm a passionate software developer with a focus on industrial programming and Industry 4.0 solutions. Currently learning at 42 Porto and building innovative solutions for manufacturing systems and automation.
+
+## Skills:
+- **Languages**:
+  - Low-level: ASM x86
+  - High-level: C, C++, Python, JavaScript, C#, VB
+  - Automation: Ladder, STL, FBD
+
+- **Technologies**:
+  - Web Development: Node.js, React, Django
+  - Database Management: SQL, MySQL
+  - Dev Tools: Docker, Visual Studio Code, GitHub
+
+- **Industrial Automation**:
+  - Machine Programming: Siemens, Omron, Beckhoff
+  - Industry 4.0 Solutions: Data analysis, IoT, smart manufacturing
+
+## Goals:
+- Working Full-Time as a Software Developer, creating efficient, reliable, and scalable systems
+- Contributing to Industry 4.0 by developing smart manufacturing solutions that integrate automation, data, and machine learning
 
 
-# I'm Artur Gonçalves!
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/arturg04/)
+- [Email](mailto:your.email@example.com)
 
-## About me :
-
- <p>
-    <h4 align="left">
-      ✨ Creating bugs since 2021<br>
-      🎓 I have a degree in "Tecnologias e Sistemas de Produção"<br>
-      📚 I'm currently learning at 42 Porto<br>
-      🧑‍💻 I'm working as an Industrial Programmer<br>
-      🎯 Goals:<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Working Full-Time in Software-Development <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Create Solutions for Industry 4.0 <br>
-    </h4>
-  </p>
-
-
-<p>
-  <a href="https://github.com/Arturg04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
-    <img width="12" />
-  </a>
-</p>
-<p>
-  <a href="https://twitter.com/arturg04" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo" />
-    <img width="12" />
-  </a>
-</p>
-<p>
-  <a href="https://www.instagram.com/arturg04/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo" />
-    <img width="12" />
-  </a>
-</p>
-
-
-
-
-## I code with :
-
-###
-<p align=center>
-  <p float=left>
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo" />
-  </p>
-  <p float=rigth>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-    </p>
-</p>
-
-<p align=center>
-<p>
-	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"/>
-</p>
-<p>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"/>
-	<img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
-</p>
-</p>
-
-<p>
-  <p>
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo" />
-  </p>
-<p>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="dot-net logo" />
-</p>
-</p>
-
-## Contacts:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/arturg04/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</a>
-</p>
+## Follow Me
+- [GitHub](https://github.com/Arturg04)
+- [Twitter](https://twitter.com/arturg04)
+- [Instagram](https://www.instagram.com/arturg04/)
