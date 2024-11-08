@@ -4,28 +4,41 @@
 
 ## Welcome:
 
-<div id="welcome-code"></div>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
+  </head>
+  <body>
+    <div id="welcome-code"></div>
 
-<script>
-  const codes = [
-    { language: 'C', code: '#include <stdio.h>\nint main() {\n  printf("Welcome to my GitHub profile!\\n");\n  return 0;\n}' },
-    { language: 'C++', code: '#include <iostream>\nint main() {\n  std::cout << "Welcome to my GitHub profile!" << std::endl;\n  return 0;\n}' },
-    { language: 'Python', code: 'print("Welcome to my GitHub profile!")' },
-    { language: 'C#', code: 'using System;\nclass Program {\n  static void Main() {\n    Console.WriteLine("Welcome to my GitHub profile!");\n  }\n}' },
-    { language: 'JavaScript', code: 'console.log("Welcome to my GitHub profile!");' }
-  ];
+    <script>
+      const codes = [
+        { language: 'C', code: '#include <stdio.h>\nint main() {\n  printf("Welcome to my GitHub profile!\\n");\n  return 0;\n}' },
+        { language: 'C++', code: '#include <iostream>\nint main() {\n  std::cout << "Welcome to my GitHub profile!" << std::endl;\n  return 0;\n}' },
+        { language: 'Python', code: 'print("Welcome to my GitHub profile!")' },
+        { language: 'C#', code: 'using System;\nclass Program {\n  static void Main() {\n    Console.WriteLine("Welcome to my GitHub profile!");\n  }\n}' },
+        { language: 'JavaScript', code: 'console.log("Welcome to my GitHub profile!");' }
+      ];
 
-  // Function to generate random index and display the code
-  function displayRandomCode() {
-    const randomCode = codes[Math.floor(Math.random() * codes.length)];
-    document.getElementById('welcome-code').innerHTML = `
-      <pre><code class="language-${randomCode.language.toLowerCase()}">${randomCode.code}</code></pre>
-    `;
-  }
+      function displayRandomCode() {
+        const randomCode = codes[Math.floor(Math.random() * codes.length)];
+        document.getElementById('welcome-code').innerHTML = `
+          <pre><code class="language-${randomCode.language.toLowerCase()}">${randomCode.code}</code></pre>
+        `;
+        // Re-initialize Prism.js after code is inserted into the DOM
+        Prism.highlightAll();
+      }
 
-  // Call the function to display code when the page loads
-  window.onload = displayRandomCode;
-</script>
+      // Call the function to display code when the page loads
+      window.onload = displayRandomCode;
+    </script>
+  </body>
+</html>
+
+
+
 
 ## About Me
 I'm a passionate software developer with a focus on industrial programming and Industry 4.0 solutions. Currently learning at 42 Porto and building innovative solutions for manufacturing systems and automation.
