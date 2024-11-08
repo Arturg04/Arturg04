@@ -16,7 +16,7 @@ I'm a passionate software developer with a focus on industrial programming and I
   - Dev Tools: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 - **Industrial Automation**:
-  - Machine Programming: (https://img.shields.io/badge/Siemens-0097A7?style=flat&logo=siemens&logoColor=white), ![Omron](https://img.shields.io/badge/Omron-00A9D2?style=flat&logo=omron&logoColor=white), ![Beckhoff](https://img.shields.io/badge/Beckhoff-0060A5?style=flat&logo=beckhoff&logoColor=white)
+  - Machine Programming: ![Siemens](https://img.shields.io/badge/Siemens-0097A7?style=flat&logo=siemens&logoColor=white), ![Omron](https://img.shields.io/badge/Omron-00A9D2?style=flat&logo=omron&logoColor=white), ![Beckhoff](https://img.shields.io/badge/Beckhoff-0060A5?style=flat&logo=beckhoff&logoColor=white)
   - Industry 4.0 Solutions: ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white), ![IoT](https://img.shields.io/badge/IoT-FF7F00?style=flat&logo=internetofthings&logoColor=white)
 
 ## Goals:
