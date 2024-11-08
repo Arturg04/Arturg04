@@ -1,10 +1,10 @@
-# Artur Gonçalves
+# 👨‍💻 Artur Gonçalves
 ![Artur's Avatar](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif)
 
-## About Me
+## 📄 About Me
 I'm a passionate software developer with a focus on industrial programming and Industry 4.0 solutions. Currently learning at 42 Porto and building innovative solutions for manufacturing systems and automation.
 
-## Skills:
+## 💻 Skills
 - **Languages**:
   - Low-level: ![ASM x86](https://img.shields.io/badge/ASM%20x86-000000?style=flat&logo=c&logoColor=white)
   - High-level: ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![VB](https://img.shields.io/badge/Visual%20Basic-9458B2?style=flat&logo=visualstudio&logoColor=white)
@@ -19,7 +19,7 @@ I'm a passionate software developer with a focus on industrial programming and I
   - Machine Programming: ![Siemens](https://img.shields.io/badge/Siemens-0097A7?style=flat&logo=siemens&logoColor=white), ![Omron](https://img.shields.io/badge/Omron-00A9D2?style=flat&logo=omron&logoColor=white), ![Beckhoff](https://img.shields.io/badge/Beckhoff-0060A5?style=flat&logo=beckhoff&logoColor=white)
   - Industry 4.0 Solutions: ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white), ![IoT](https://img.shields.io/badge/IoT-FF7F00?style=flat&logo=internetofthings&logoColor=white)
 
-## Communication Protocols
+## 🔗 Communication Protocols
 Proficiency in these protocols enhances my ability to integrate and troubleshoot complex automation systems:
 
 - **Industrial Protocols**:
@@ -33,17 +33,17 @@ Proficiency in these protocols enhances my ability to integrate and troubleshoot
   - ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
   - ![OPC-UA](https://img.shields.io/badge/OPC--UA-007ACC?style=flat&logo=opcua&logoColor=white)
 
-## Goals:
+## 🎯 Goals
 - Working Full-Time as a Software Developer, creating efficient, reliable, and scalable systems
 - Contributing to Industry 4.0 by developing smart manufacturing solutions that integrate automation, data, and machine learning
 
-## Learning Goals
+## 📘 Learning Goals
 Currently, I’m expanding my skills in game development, machine learning, and advanced web technologies:
 
 - **Game Development**:
   - ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
   - ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
- 
+
 - **Machine Learning**:
   - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat&logo=tensorflow&logoColor=white)
@@ -53,11 +53,11 @@ Currently, I’m expanding my skills in game development, machine learning, and 
   - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
   - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/arturg04/)
-- [Email](mailto:your.email@example.com)
+## 📫 Contact Me
+- **[LinkedIn](https://www.linkedin.com/in/arturg04/)**: Connect professionally or view my latest projects and achievements.
+- **[Email Me](mailto:your.email@example.com)**: Reach out directly for collaboration or inquiries.
 
-## Follow Me
-- [GitHub](https://github.com/Arturg04)
-- [Twitter](https://twitter.com/arturg04)
-- [Instagram](https://www.instagram.com/arturg04/)
+## 🌐 Follow Me
+- **[GitHub](https://github.com/Arturg04)**: Explore my code, contributions, and open-source projects.
+- **[Twitter](https://twitter.com/arturg04)**: Follow me for industry insights, tech thoughts, and quick updates.
+- **[Instagram](https://www.instagram.com/arturg04/)**: A glimpse into my life, interests, and creative side.
