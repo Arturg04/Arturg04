@@ -19,10 +19,39 @@ I'm a passionate software developer with a focus on industrial programming and I
   - Machine Programming: ![Siemens](https://img.shields.io/badge/Siemens-0097A7?style=flat&logo=siemens&logoColor=white), ![Omron](https://img.shields.io/badge/Omron-00A9D2?style=flat&logo=omron&logoColor=white), ![Beckhoff](https://img.shields.io/badge/Beckhoff-0060A5?style=flat&logo=beckhoff&logoColor=white)
   - Industry 4.0 Solutions: ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white), ![IoT](https://img.shields.io/badge/IoT-FF7F00?style=flat&logo=internetofthings&logoColor=white)
 
+## Communication Protocols
+Proficiency in these protocols enhances my ability to integrate and troubleshoot complex automation systems:
+
+- **Industrial Protocols**:
+  - ![Modbus](https://img.shields.io/badge/Modbus-00599C?style=flat&logo=modbus&logoColor=white)
+  - ![Profibus](https://img.shields.io/badge/Profibus-FF6600?style=flat&logo=siemens&logoColor=white)
+  - ![EtherCAT](https://img.shields.io/badge/EtherCAT-003366?style=flat&logo=ethercat&logoColor=white)
+  - ![Profinet](https://img.shields.io/badge/Profinet-0099CC?style=flat&logo=profinet&logoColor=white)
+
+- **Networking**:
+  - ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-228B22?style=flat&logo=cisco&logoColor=white)
+  - ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+  - ![OPC-UA](https://img.shields.io/badge/OPC--UA-007ACC?style=flat&logo=opcua&logoColor=white)
+
 ## Goals:
 - Working Full-Time as a Software Developer, creating efficient, reliable, and scalable systems
 - Contributing to Industry 4.0 by developing smart manufacturing solutions that integrate automation, data, and machine learning
 
+## Learning Goals
+Currently, I’m expanding my skills in game development, machine learning, and advanced web technologies:
+
+- **Game Development**:
+  - ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+  - ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+ 
+- **Machine Learning**:
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat&logo=tensorflow&logoColor=white)
+  - **Reinforcement Learning**
+
+- **Web Development**:
+  - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/arturg04/)
